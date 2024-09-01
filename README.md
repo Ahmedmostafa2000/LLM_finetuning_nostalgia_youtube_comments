@@ -100,14 +100,3 @@ for text in text_list:
 This project demonstrates how to build a sentiment analysis model using Hugging Face's Transformers library, from data loading and preprocessing to model training and prediction. The model can be further fine-tuned and evaluated based on specific requirements.
 ```
 
-### Explanation of the README
-
-- **Project Title**: Clearly states the purpose of the project.
-- **Overview of the Code**: Provides a high-level description of what the code does, without installation or usage sections.
-- **Code Snippets**: Illustrates key parts of the code with explanations to help users understand the flow and logic behind the implementation.
-- **Conclusion**: Summarizes the project and its capabilities.
-
-Feel free to modify any sections or add more details to better fit your project!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/28410760/e1d502a6-cd22-4102-8bb4-478040f7098d/paste.txt
